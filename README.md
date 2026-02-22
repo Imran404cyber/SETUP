@@ -1,9 +1,6 @@
 # COMMAND TYPE ->
 - **Terminal Setup**
 
-# ABOUT
-- **Developer**: ImRaN
-
 - **If any errors or problems occur while running the tool, you can contact the admins and moderators**
 
 # Contact
@@ -17,6 +14,7 @@ cd
 termux-setup-storage 
 pkg install python git -y
 git clone --depth=1 https://github.com/Imran404cyber/SETUP
+
 cd SETUP
 bash install.sh
 
