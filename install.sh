@@ -9,7 +9,7 @@ echo
 termux-setup-storage
 apt update && apt upgrade -y
 pkg install sl
-pip install requests setuptools mechanize bs4 pycurl 
+pip install requests setuptools mechanize bs4 pycurl aiohttp
 
 echo
 echo
