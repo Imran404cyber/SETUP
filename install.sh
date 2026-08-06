@@ -8,7 +8,8 @@ echo
 
 termux-setup-storage
 apt update && apt upgrade -y
-pkg install sl
+pkg install python -y
+pkg install git
 pip install requests setuptools mechanize bs4 pycurl aiohttp
 
 echo
